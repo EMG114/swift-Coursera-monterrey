@@ -1,2 +1,2 @@
-# swift-juego-memoria-monterrey
-Curso Swift Juego de Memoria Coursera Monterrey
+# swift-Coursera-monterrey
+Curso Coursera Monterrey
