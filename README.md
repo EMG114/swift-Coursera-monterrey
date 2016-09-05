@@ -1,11 +1,11 @@
 # swift-Coursera-monterrey
-Curso Coursera Monterrey
+<h1>Curso Coursera Monterrey</h1>
 
 
-Swift: programar para iOS
-by Tecnológico de Monterrey
+<h1>Swift: programar para iOS</h1>
+<h1>by Tecnológico de Monterrey</h1>
 
-Reto: Juego de Memoria
+<h2>Reto: Juego de Memoria</h2>
 
 Programa un playground que evalúe un rango de números en base a 4 reglas de impresión.
 
@@ -24,9 +24,11 @@ Debes de usar la interpolación de variables para realizar la impresión de cada
 Instructionsless 
 Programa un playground que evalúe un rango de números en base a 4 reglas de impresión.
 
+</hr>
 
+<h2>Reto: Velocimetro de un automovil digital</h2>
 
-Reto: Crea un playground que contenga los elementos para representar un velocímetro de un automóvil. Recuerda que estamos practicando la programación orientada a objetos y primero debes diseñar la clase, enumeraciones o estructuras para llevarlas a un aplicación móvil. ¿Qué debes de realizar?
+Crea un playground que contenga los elementos para representar un velocímetro de un automóvil. Recuerda que estamos practicando la programación orientada a objetos y primero debes diseñar la clase, enumeraciones o estructuras para llevarlas a un aplicación móvil. ¿Qué debes de realizar?
 
 Declara la enumeración: Velocidades, sus valores serán de tipo Int.
 
