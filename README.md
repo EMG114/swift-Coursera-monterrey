@@ -2,8 +2,8 @@
 <h1>Curso Coursera Monterrey</h1>
 
 
-<h2>Swift: programar para iOS</h2>
-<h2>by Tecnológico de Monterrey</h2>
+<h2>Swift: programar para iOS
+by Tecnológico de Monterrey</h2>
 
 <h3>Reto: Juego de Memoria</h3>
 
