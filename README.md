@@ -2,10 +2,10 @@
 <h1>Curso Coursera Monterrey</h1>
 
 
-<h1>Swift: programar para iOS</h1>
-<h1>by Tecnológico de Monterrey</h1>
+<h2>Swift: programar para iOS</h2>
+<h2>by Tecnológico de Monterrey</h2>
 
-<h2>Reto: Juego de Memoria</h2>
+<h3>Reto: Juego de Memoria</h3>
 
 Programa un playground que evalúe un rango de números en base a 4 reglas de impresión.
 
@@ -26,7 +26,7 @@ Programa un playground que evalúe un rango de números en base a 4 reglas de im
 
 </hr>
 
-<h2>Reto: Velocimetro de un automovil digital</h2>
+<h3>Reto: Velocimetro de un automovil digital</h3>
 
 Crea un playground que contenga los elementos para representar un velocímetro de un automóvil. Recuerda que estamos practicando la programación orientada a objetos y primero debes diseñar la clase, enumeraciones o estructuras para llevarlas a un aplicación móvil. ¿Qué debes de realizar?
 
